@@ -1,0 +1,6 @@
+D:\Tutorials\DesignPatterns\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.exe.config
+D:\Tutorials\DesignPatterns\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csprojResolveAssemblyReference.cache
+D:\Tutorials\DesignPatterns\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.exe
+D:\Tutorials\DesignPatterns\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.pdb
+D:\Tutorials\DesignPatterns\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.exe
+D:\Tutorials\DesignPatterns\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.pdb
